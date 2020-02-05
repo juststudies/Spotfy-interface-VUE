@@ -1,4 +1,7 @@
-# Atenção, essa aplicação foi desenvolvida em conjunto a video-aula do Paulo Bezerra, do canal "CodDev TV"
+# Atenção,
+# essa aplicação foi desenvolvida em conjunto a video-aula do Paulo Bezerra do canal "CodDev TV"
+
+
 
 
 # clone-spotify
